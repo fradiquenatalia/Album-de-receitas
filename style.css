@@ -20,13 +20,13 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100%; /* Defina uma altura para as imagens */
+    height: 100%; 
 }
 
 .r5 h1 {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: rgb(255, 197, 126);
-    text-align: center; /* Alinhe o texto no centro */
+    text-align: center; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,7 +36,7 @@
 .r8 h2 {
     background-color: rgb(255, 197, 126);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: center; /* Alinhe o texto no centro */
+    text-align: center; 
     display: flex;
     justify-content: center;
     align-items: center;
